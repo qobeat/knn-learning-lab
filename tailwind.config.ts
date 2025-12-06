@@ -57,6 +57,10 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        "class-a": "hsl(var(--class-a))",
+        "class-b": "hsl(var(--class-b))",
+        "class-a-soft": "hsl(var(--class-a-soft))",
+        "class-b-soft": "hsl(var(--class-b-soft))",
       },
       borderRadius: {
         lg: "var(--radius)",
